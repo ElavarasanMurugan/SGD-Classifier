@@ -82,9 +82,11 @@ print(cm)
 
 ## Output:
 **Head Values - Dataframe(Iris)**
+
 ![Screenshot 2025-05-12 112555](https://github.com/user-attachments/assets/69e494d8-cc91-42a0-8720-60019768421a)
 
 **Fitting Training Data on SGD classifier**
+
 ![Screenshot 2025-05-12 112602](https://github.com/user-attachments/assets/468bb52a-cc90-4e09-9f44-01154244143d)
 
 **Model Accuracy**
